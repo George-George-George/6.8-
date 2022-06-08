@@ -2,4 +2,4 @@ alert('你好')
 alert('你好')
 alert('你好')
 alert('你好')
-
+alert('在register上创建的代码')
